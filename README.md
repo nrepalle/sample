@@ -1,3 +1,3 @@
 # sample
 deploy a war file
-Welcome to GitHUb
+Welcome to GitHub
